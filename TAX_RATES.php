@@ -1,0 +1,8 @@
+<?php
+$TAX_CITY = .045;
+$TAX_COUNTY = .01;
+$TAX_STATE = .04;
+$TAX_RATE = $TAX_CITY + $TAX_COUNTY + $TAX_STATE;
+
+
+
